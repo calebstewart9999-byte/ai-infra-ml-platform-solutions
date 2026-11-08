@@ -6,7 +6,6 @@
 <!-- aicg:sponsor -->
 > 💜 **[Sponsor this curriculum](https://github.com/sponsors/AI-Infra-Curriculum)** — sponsorships keep the whole open-source AI Career Curriculum free and moving.
 <!-- /aicg:sponsor -->
-
 ![AI Infrastructure](https://img.shields.io/badge/AI-Infrastructure-blue)
 ![Level](https://img.shields.io/badge/Level-Senior%20Engineer-orange)
 ![Projects](https://img.shields.io/badge/Projects-4%20Complete-brightgreen)
